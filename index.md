@@ -22,6 +22,7 @@ This policy explains how we handle your data with a strict offline-first approac
 ### 4. Data Security
 * Temporary files used during processing are stored in the app\'s private cache and cleared automatically. 
 * You are responsible for maintaining backups of your final exported documents.
+* Since your data never leaves your device, you are responsible for maintaining backups of your important files. Temporary files are cleared automatically.
 
 ### CONTACT SUPPORT
 * For privacy inquiries, contact: <hl6@outlook.com>
