@@ -1,1 +1,0 @@
-# pdfconsolidator-legal
