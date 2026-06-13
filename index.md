@@ -1,5 +1,5 @@
 # Privacy Policy for PDF Consolidator
-**Last Updated: May 2026**
+**Last Updated: June 2026**
 
 PDF Consolidator is committed to protecting your privacy. 
 This policy explains how we handle your data with a strict offline-first approach.
